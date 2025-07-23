@@ -1,5 +1,5 @@
 /// <reference types="cypress"/>
-describe('Guest User Product Review Submission', () => {
+describe('validate that the user can submit a review on theproduct page', () => {
   const productUrl = 'https://magento.softwaretestingboard.com/radiant-tee.html';
   const timestamp = Date.now();
   
